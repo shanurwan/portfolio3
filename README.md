@@ -20,3 +20,4 @@ A scalable Python-based analytics pipeline that simulates recruiter–candidate 
 #### 3. Job Trend Real Time Analysis in Power BI 
 
 #### 4. Self-Updating Job Tracker with VBA – No Subscriptions, Just Smart Sheets
+![Image](https://github.com/user-attachments/assets/d355b4f7-d835-495b-9d75-52547c5076f9)
