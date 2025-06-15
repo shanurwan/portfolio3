@@ -18,6 +18,6 @@ Built a scalable SQL analytics system to flag disengagement, churn risk, and qua
 A scalable Python-based analytics pipeline that simulates recruiter–candidate interactions to predict churn behavior. Featuring data engineering, classification modeling, and engagement signal tracking . This project mirrors real-world recruitment platform dynamics and helps drive retention-focused insights.
 
 #### 3. Graduate Job Trends Tracker - Real-Time Insights from SEEK's Marketplace (Power BI)
-
+![Image](https://github.com/user-attachments/assets/9752aeb3-0b45-4a72-a242-a31ad72cd0a7)
 #### 4. Self-Updating Job Tracker with VBA – No Subscriptions, Just Smart Sheets
 ![Image](https://github.com/user-attachments/assets/d355b4f7-d835-495b-9d75-52547c5076f9)
