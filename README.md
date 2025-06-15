@@ -16,3 +16,7 @@ Built a scalable SQL analytics system to flag disengagement, churn risk, and qua
 ![Image](https://github.com/user-attachments/assets/e62a1527-e833-47a0-b2e8-bd669bd5cfae)
 
 A scalable Python-based analytics pipeline that simulates recruiter–candidate interactions to predict churn behavior. Featuring data engineering, classification modeling, and engagement signal tracking . This project mirrors real-world recruitment platform dynamics and helps drive retention-focused insights.
+
+#### 3. Job Trend Real Time Analysis in Power BI 
+
+#### 4. Self-Updating Job Tracker with VBA – No Subscriptions, Just Smart Sheets
