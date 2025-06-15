@@ -25,5 +25,7 @@ A scalable Python-based analytics pipeline that simulates recruiter–candidate 
 #### 4. Self-Updating Job Tracker with VBA – No Subscriptions, Just Smart Sheets
 ![Image](https://github.com/user-attachments/assets/d355b4f7-d835-495b-9d75-52547c5076f9)
 
+What started as a personal tool became a mini product. I created a smart job tracker that keeps tabs on every application, follow-up, and outcome using Excel and VBA automation. It highlights overdue updates, summarizes progress through a dynamic dashboard, and functions like a lightweight CRM for job hunting. This project shows how I bring automation and structure into real-world problems and reflects the same mindset I would apply to building user-focused tools at SEEK.
+
 ### Projects [Status = `ONGOING`]
 #### AI-Powered Job Application Assistant 
