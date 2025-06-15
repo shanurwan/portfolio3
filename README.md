@@ -29,3 +29,4 @@ What started as a personal tool became a mini product. I created a smart job tra
 
 ### Projects [Status = `ONGOING`]
 #### AI-Powered Job Application Assistant 
+![Image](https://github.com/user-attachments/assets/95f4739d-ab46-482a-b274-03f389394772)
