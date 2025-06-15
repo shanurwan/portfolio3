@@ -7,7 +7,8 @@ Currently Learning: AWS
 ### Education
 Bachelor of Science in Statistic, University Malaya
 
-### Projects
+### Projects [Status = `COMPLETED`]
+
 #### 1. Automated SQL-Based Monitoring of Recruiter Behavior in Talent Marketplaces (MySQL) [(Click here to see full)](https://github.com/shanurwan/Recruiter-Analytic-SQL)
 ![Image](https://github.com/user-attachments/assets/49964470-e28b-403d-9549-2917819561e3)
 
@@ -23,3 +24,6 @@ A scalable Python-based analytics pipeline that simulates recruiter–candidate 
 ![Image](https://github.com/user-attachments/assets/9752aeb3-0b45-4a72-a242-a31ad72cd0a7)
 #### 4. Self-Updating Job Tracker with VBA – No Subscriptions, Just Smart Sheets
 ![Image](https://github.com/user-attachments/assets/d355b4f7-d835-495b-9d75-52547c5076f9)
+
+### Projects [Status = `ONGOING`]
+#### AI-Powered Job Application Assistant 
