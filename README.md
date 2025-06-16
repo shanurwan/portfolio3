@@ -1,8 +1,8 @@
 ## Insight Driven Problem Solver 
 
-Technical Skills: Python, SQL, Power BI, Excel VBA
+Technical Skills: Python,R,C++, SQL, Power BI, Excel VBA
 
-Currently Learning: AWS 
+Currently Learning: AWS, Docker, MLflow, Prometheus, Prefect 
 
 ### Education
 Bachelor of Science in Statistic, University Malaya
