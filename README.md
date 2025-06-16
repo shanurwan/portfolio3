@@ -9,7 +9,7 @@ Bachelor of Science in Statistic, University Malaya
 
 ### Certification
 
-- [Microsoft Power BI Workshop (Accredited HRDcorp Trainer)] (https://drive.google.com/file/d/1ToCn3OUGkoS5CJIMvJKSOcWJoM6NqF5M/view?usp=sharing)
+- [Microsoft Power BI Workshop (Accredited HRDcorp Trainer)](https://drive.google.com/file/d/1ToCn3OUGkoS5CJIMvJKSOcWJoM6NqF5M/view?usp=sharing)
 - Google Advance Data Analytic (Sponsored by Trainocate Malaysia)
   
 
