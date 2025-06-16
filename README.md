@@ -7,6 +7,12 @@ Currently Learning: AWS, Docker, MLflow, Prometheus, Prefect
 ### Education
 Bachelor of Science in Statistic, University Malaya
 
+### Certification
+
+- [Microsoft Power BI Workshop (Accredited HRDcorp Trainer)] (https://drive.google.com/file/d/1ToCn3OUGkoS5CJIMvJKSOcWJoM6NqF5M/view?usp=sharing)
+- Google Advance Data Analytic (Sponsored by Trainocate Malaysia)
+  
+
 ### Projects [Status = `COMPLETED`]
 
 #### 1. Automated SQL-Based Monitoring of Recruiter Behavior in Talent Marketplaces (MySQL) [(Click here to see full)](https://github.com/shanurwan/Recruiter-Analytic-SQL)
