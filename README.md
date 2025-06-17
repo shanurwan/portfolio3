@@ -1,6 +1,6 @@
 ## Insight Driven Problem Solver 
 
-Technical Skills: Python,R,C++, SQL, Power BI, Excel VBA
+Technical Skills: Python,R, SQL, Power BI, Excel VBA
 
 Currently Learning: AWS, Docker, MLflow, Prometheus, Prefect 
 
